@@ -1,0 +1,88 @@
+header{
+    background-color: black; 
+    height: 115px;
+}
+
+h1{
+    text-align: left; 
+    font-style: italic;
+    text-decoration: underline;
+    font-family: Helvetica, arial; 
+    color: white; 
+     
+}
+
+h2{
+    font-family: MontSerrat, Helvetica, arial;
+    text-align: left;
+    text-decoration: underline;
+}
+h3{
+    text-decoration: underline; 
+    text-shadow: 1px 1px #C0C0C0;
+}
+
+p{
+    text-align: justify; 
+    font-family: Helvetica, arial; 
+    font-size: 15px;  
+}
+
+footer{
+    clear: both; 
+    background-color: black; 
+    text-align: center; 
+    height: 25px; 
+    color: white;
+    font-family: Montserrat; 
+    font-style: italic; 
+}
+p.informacoes{
+    font-style: italic; 
+    font-family: Helvetica, arial;
+    color: #1C1C1C; 
+    text-align: center; 
+}
+
+#dados-pessoais{
+    text-align: justify; 
+    font-style: italic; 
+    font-family: Helvetica, arial; 
+}
+h2.cabecalho-objetivo{
+    text-align: left; 
+    font-style: bold; 
+    font-family: Helvetica, arial;
+}
+#objetivo{
+    text-align: center; 
+    font-family: Helvetica, arial; 
+    font-style: italic;
+    border: 1px solid #000; 
+    padding: 10px; 
+    background-color: #C0C0C0; 
+    
+}
+
+p.endereco{
+    color: black;
+    
+}
+.endereco{
+    font-family: monospace;
+    font-style: italic;
+    
+}
+#titulo{
+    float: left; 
+    padding: 50px 20px; 
+}
+#links{
+    padding: 70px 20px; 
+    float: right;  
+}
+ul.lista{
+    /*font-style: italic;*/
+    font-size: 15px; 
+    font-family: Helvetica, arial; 
+}
